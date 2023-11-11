@@ -5,7 +5,6 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
   image_circular: flase # crops the image to make it circular
   more_info: >
     <p>Computer Engineering Dpartment</p>
