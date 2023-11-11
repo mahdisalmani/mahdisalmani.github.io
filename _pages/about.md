@@ -8,7 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: flase # crops the image to make it circular
   more_info: >
-    <p>Computer Engineering Dpartment Sharif University of Technology Tehran, IRAN</p>
+    <p>Computer Engineering Dpartment</p>
+    <p>Sharif University of Technology<p> 
+    <p>Tehran, Iran</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
