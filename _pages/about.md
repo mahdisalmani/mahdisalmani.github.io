@@ -4,9 +4,9 @@ title: about
 permalink: /
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: ture # crops the image to make it circular
+  image_circular: flase # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Mahdi, a Bachelor's student in my final year in Computer Engineering at Sharif University of Technology.
+I am Mahdi, a fifth-year Bachelor's student in Computer Engineering at Sharif University of Technology.
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
