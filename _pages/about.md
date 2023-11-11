@@ -20,7 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am Mahdi, a fifth-year Bachelor's student in Computer Engineering at Sharif University of Technology.
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Throughout my studies, I have conducted research and projects in Optimization, Natural Language Processing, Medical Image Analysis, and other intriguing topics. However, my main focus has always been Trustworthy AI. Nowadays, with the rapid growth of deep learning models, concerns regarding these models have been brought to attention. There are many questions to explore: Are the models robust against adversaries? Do they preserve data privacy? What about being fair? And many other questions. Right now, I am trying to find solutions to these questions.
