@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mahdisalmani.github.io/mahdisalmani//sitemap.xml
+Sitemap: https://mahdisalmani.github.io/sitemap.xml
